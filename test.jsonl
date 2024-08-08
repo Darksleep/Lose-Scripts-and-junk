@@ -1,0 +1,4 @@
+{"comment":"Designer Config","page_size":"7inch_landscape","plate_name":"openhasp"}
+{"page":0,"comment":"Page 0"}
+{"id":3,"obj":"obj","x":0,"y":0,"w":800,"h":80}
+{"id":4,"obj":"label","x":20,"y":20,"w":100,"h":40,"hass_config":{"properties":[{"property":"text","entityId":""}],"events":[]}}
